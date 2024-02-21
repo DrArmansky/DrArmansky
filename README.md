@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/armansky"><img src="./devcard.png" width="652" alt="armansky's Dev Card"/></a>
+<a href="https://app.daily.dev/armansky"><img src="./devcard.png" width="356" alt="armansky's Dev Card"/></a>
 <image src="https://www.codewars.com/users/DrArmansky/badges/large">
 
 <!--### Hi there 👋

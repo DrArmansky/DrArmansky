@@ -1,6 +1,8 @@
-### Hi there 👋
+<a href="https://app.daily.dev/armansky"><img src="https://api.daily.dev/devcards/v2/_9ateWMml.png?r=w2r&type=wide" width="652" alt="armansky's Dev Card"/></a>
+<image src="https://www.codewars.com/users/DrArmansky/badges/large">
 
-<!--
+<!--### Hi there 👋
+
 **DrArmansky/DrArmansky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,6 +16,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<image src="https://www.codewars.com/users/DrArmansky/badges/large">
-<a href="https://app.daily.dev/armansky"><img src="https://api.daily.dev/devcards/v2/_9ateWMml.png?r=w2r&type=wide" width="652" alt="armansky's Dev Card"/></a>

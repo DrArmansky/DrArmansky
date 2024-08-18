@@ -1,6 +1,3 @@
-
-<a href="https://app.daily.dev/armansky"><img src="./devcard.png" width=356 alt="armansky's Dev Card"/></a>
-
 <!--### Hi there 👋
 
 **DrArmansky/DrArmansky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
